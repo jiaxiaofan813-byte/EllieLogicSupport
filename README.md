@@ -9,7 +9,7 @@ Product information, privacy policy and parent/guardian support. This repository
 
 ## Hosting
 
-Buildless GitHub Pages: publish from `main`, `/ (root)`. No dependencies, external fonts, analytics, data submission or browser storage. `demo.js` only updates the illustrative pattern demo in memory. The product icon is the approved Ellie Logic icon. The website illustration is not represented as an app screenshot. There is no App Store download badge until a verified listing is available.
+Buildless GitHub Pages: publish from `main`, `/ (root)`. No dependencies, external fonts, analytics, data submission or browser storage. `demo.js` only updates the illustrative pattern demo in memory. The product icon is the approved Ellie Logic icon. The website illustration is not represented as an app screenshot. Ellie Logic is available on the [App Store](https://apps.apple.com/us/app/ellie-logic-thinking-puzzles/id6831741834).
 
 ## Updating
 
