@@ -7,6 +7,8 @@ Product information, privacy policy and parent/guardian support. This repository
 - Support: https://jiaxiaofan813-byte.github.io/EllieLogicSupport/support.html
 - 中文: https://jiaxiaofan813-byte.github.io/EllieLogicSupport/zh.html
 
+- Developer & more projects: https://jiaxiaofan.net/
+
 ## Hosting
 
 Buildless GitHub Pages: publish from `main`, `/ (root)`. No dependencies, external fonts, analytics, data submission or browser storage. `demo.js` only updates the illustrative pattern demo in memory. The product icon is the approved Ellie Logic icon. The website illustration is not represented as an app screenshot. Ellie Logic is available on the [App Store](https://apps.apple.com/us/app/ellie-logic-thinking-puzzles/id6831741834).
